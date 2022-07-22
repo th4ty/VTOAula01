@@ -24,29 +24,32 @@ public class Main {
         final int j = 10;
         //j = 15; se a variável j é uma variável FINAL, o último valor dela já foi decretado e não pode ser substituído
         int asrn24678md;
-        int asrn246_78md;
+        //int asrn246 78md; Variáveis não podem conter espaços
         int asrn24678_md =10;
-        int asrn246%78_md =10;
+        //int asrn246%78_md =10; Variáveis não podem conter caracteres especiais utilizados para outros comandos
 
         asrn24678md = 100;
         asrn24678md = 10;
 
         int quantidadeProduto = 50;
-        int QuantidadeProduto;
+        //int QuantidadeProduto; Não recomendado iniciar com letra maiúscula
         final int NUMERO_TENTATIVAS = 5;
-        final int numeroTentativas = 5;
+        //final int numeroTentativas = 5; Não seguiu o padrão de síntaxe apropriado para variáveis final
         int QUANTIDADE_OPCOES = 25;
-        int qtdProd;
+        //int qtdProd; Nenhuma expressão ou valor aplicado a variável para depois exibir
 
         System.out.println(i);
         System.out.println(I);
         System.out.println(_1a);
         System.out.println($aq);
+
         System.out.println(j);
         System.out.println(asrn24678md);
-        System.out.println(asrn246_78md);
         System.out.println(asrn24678_md);
-        System.out.println();
+
+        System.out.println(quantidadeProduto);
+        System.out.println(NUMERO_TENTATIVAS);
+        System.out.println(QUANTIDADE_OPCOES);
 
 
     }
