@@ -53,8 +53,8 @@ public class Casting {
         System.out.println(i);
         System.out.println(l_2);
         System.out.println(d);
-        System.out.println(d_2);
-        System.out.println(f_3);
+        System.out.println(f_2);
+        System.out.println(i_3);
 
 
 
