@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79a39486-8d40-462e-8cb0-3293969186a8" name="Changes" comment="alteracoes em variaveis erradas e coments explicando erros">
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/TipodeDados/TipoDeDados.java" afterDir="false" />
+    <list default="true" id="79a39486-8d40-462e-8cb0-3293969186a8" name="Changes" comment="criacao classe TipoDeDados referente a aula2">
+      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/basecamp/OperadoresAritmeticos/OperadoresAritmeticos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +38,26 @@
     "jdk.selected.JAVA_MODULE": "11"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TipoDeDados">
+  <component name="RunManager" selected="Application.OperadoresAritmeticos">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.Main" />
       <module name="VTOAula01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="one.digitalinnovation.basecamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.basecamp.OperadoresAritmeticos.OperadoresAritmeticos" />
+      <module name="VTOAula01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="one.digitalinnovation.basecamp.OperadoresAritmeticos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperadoresAritmeticos" />
         <item itemvalue="Application.TipoDeDados" />
         <item itemvalue="Application.Main" />
       </list>
@@ -95,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658448785615</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="criacao classe TipoDeDados referente a aula2">
+      <created>1658451659463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658451659464</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="alteracoes em variaveis erradas e coments explicando erros" />
-    <option name="LAST_COMMIT_MESSAGE" value="alteracoes em variaveis erradas e coments explicando erros" />
+    <MESSAGE value="criacao classe TipoDeDados referente a aula2" />
+    <option name="LAST_COMMIT_MESSAGE" value="criacao classe TipoDeDados referente a aula2" />
   </component>
 </project>
